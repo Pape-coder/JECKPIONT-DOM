@@ -1,0 +1,7 @@
+.like {
+    cursor: pointer;
+}
+
+.liked {
+    color: red; /* Couleur lorsque l'article est aimé */
+}
